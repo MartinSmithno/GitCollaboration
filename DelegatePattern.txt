@@ -1,0 +1,5 @@
+Delegation is a commonly used pattern in Apple's frameworks.
+
+Swift Guide:
+This design pattern is implemented by defining a protocol that encapsulates the delegated responsibilities,
+such that a conforming type (known as a delegate) is guaranteed to provide the functionality that has been delegated.
